@@ -17,7 +17,7 @@ def start_conversation(message="Tell me the rules, I am ready!", turns=6):
 
 # Sidebar settings
 st.sidebar.title("🎮 Game Settings")
-num_turns = st.sidebar.slider("Number of Turns", min_value=1, max_value=10, value=6)
+num_turns = st.sidebar.slider("Number of Turns", min_value=1, max_value=20, value=9)
 start_message = st.sidebar.text_input("Starting Message", value="Tell me the rules, I am ready!")
 
 # Main UI

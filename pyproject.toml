@@ -1,0 +1,12 @@
+[project]
+name = "agentic"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ollama>=0.5.1",
+    "pyautogen[ollama]>=0.9",
+    "streamlit>=1.46.1",
+    "torch>=2.7.1",
+]

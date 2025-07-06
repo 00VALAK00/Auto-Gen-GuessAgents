@@ -15,4 +15,4 @@ This project demonstrates a multi-agent interaction using [AutoGen](https://gith
 ---
 
 ## Demo
-![Demo](demo/https://github.com/00VALAK00/Auto-Gen-GuessAgents/blob/main/demo/Streamlit%20and%2039%20more%20pages%20-%20Iheb%20-%20Microsoft_%20Edge%202025-07-06%2022-07-49.gif)
+![Demo](demo/Streamlit%20and%2039%20more%20pages%20-%20Iheb%20-%20Microsoft_%20Edge%202025-07-06%2022-07-49.gif)

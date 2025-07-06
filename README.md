@@ -16,5 +16,5 @@ This project demonstrates a multi-agent interaction using [AutoGen](https://gith
 
 ## Demo (sry for the quality)
 <p align="center">
-  <img src="demo/Streamlit%20and%2039%20more%20pages%20-%20Iheb%20-%20Microsoft_%20Edge%202025-07-06%2022-07-49.gif" alt="Demo" width="600"/>
+  <video src="demo/Streamlit and 39 more pages - Iheb - Microsoft​ Edge 2025-07-06 22-07-49.mp4" alt="Demo" width="600"/>
 </p>
